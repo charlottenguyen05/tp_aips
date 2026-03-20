@@ -1,0 +1,9 @@
+THOMAS Dorian
+NGUYEN Ngoc Linh Nhi
+
+Commande pour compiler : gcc *.c -o tsock
+
+Toutes les options fonctionnent (UDP, TCP, longueur des messages,
+nombre de messages). Nous sommes en train de formatter les 
+messages emis dans la fonction construire_message. Le programme ne 
+fonctionne donc plus correctement pour le moment. 
